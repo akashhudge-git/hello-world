@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Akash Hudge's 1st CI/CD Project (Test-1 successful)</h1>
+    <h1 style="background-color:DodgerBlue;">Akash Hudge's 1st CI/CD Project (Test-2 successfull)
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
