@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1 style="background-color:Red;">CI/CD Project successfully completed)
+    <h1 style="background-color:Green;">CI/CD Project successfully completed)
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
