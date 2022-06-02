@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1 style="background-color:Red;">CI/CD Project with Git Jenkins & Ansible successfuly completed)
+    <h1 style="background-color:Red;">CI/CD Project with Git Jenkins & Ansible completed successfuly)
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
